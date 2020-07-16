@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "defines": [
+                "ARDUINO=10800",
+                "USBCON"],
+            "includePath": [
+                "C:\\Users\\Romain\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
+                "C:\\Users\\Romain\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.2\\**",
+                "D:\\Arduino_Projets\\Librairies\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\Romain\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.2\\cores\\arduino\\Arduino.h"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
